@@ -1,0 +1,30 @@
+{
+  "engineName": "finalproject",
+  "hostIdentifier": "host-7egs1g",
+  "endpointBase": "https://host-7egs1g.api.swiftype.com",
+  "searchKey": "search-o92fomxad5pumda4i5ssh5x1",
+  "resultFields": [
+    "crop",
+    "temperature",
+    "soil",
+    "humidity",
+    "budget",
+    "rainfall",
+    "id"
+  ],
+  "sortFields": [
+    "soil",
+    "temperature",
+    "humidity",
+    "rainfall",
+    "budget"
+  ],
+  "facets": [
+    "budget",
+    "humidity",
+    "rainfall",
+    "soil",
+    "temperature"
+  ],
+  "titleField": "crop"
+}
